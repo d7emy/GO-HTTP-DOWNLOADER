@@ -1,0 +1,3 @@
+module GO-HTTP-DOWNLOADER
+
+go 1.19
